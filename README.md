@@ -1,0 +1,4 @@
+# WebpLoadDemo
+Android中使用FaceBook的Fresco库加载webp静态图和动态图加载的demo
+
+直播项目中用到的加载动态webp图片的一个demo
